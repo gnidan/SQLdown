@@ -42,7 +42,7 @@
     "mysql": "^2.5.3",
     "pg": "^4.1.1",
     "pg-query-stream": "^0.7.0",
-    "sqlite3": "^3.0.4",
+    "sqlite3": "^5.0.0",
     "tap-browser-el": "^2.0.0",
     "tap-spec": "^2.1.1",
     "tape": "^3.0.3"
