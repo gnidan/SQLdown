@@ -1,5 +1,5 @@
 {
-  "name": "sqldown",
+  "name": "@gnd/sqldown",
   "description": "A sqlite3 implementation of the LevelDOWN API",
   "version": "2.1.0",
   "repository": {
@@ -46,5 +46,8 @@
     "tap-browser-el": "^2.0.0",
     "tap-spec": "^2.1.1",
     "tape": "^3.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

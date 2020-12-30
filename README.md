@@ -1,10 +1,10 @@
-SQLdown [![Build Status](https://travis-ci.org/calvinmetcalf/SQLdown.svg)](https://travis-ci.org/calvinmetcalf/SQLdown)
+@gnd/sqldown (fork of SQLdown)
 ====
 
 A levelup backend with knex (sqlite3, postgres, and mysql tested and websql possible).
 
 ```bash
-npm install --save sqldown
+npm install --save @gnd/sqldown
 ```
 
 Also it doesn't come with any of the database backends so you need to install those yourself, one of
